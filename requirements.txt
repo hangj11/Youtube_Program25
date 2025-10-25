@@ -1,3 +1,5 @@
 streamlit
 google-api-python-client
-openai
+google-auth-httplib2
+google-auth-oauthlib
+openai==0.28.0
